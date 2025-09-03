@@ -21,10 +21,10 @@ int main(int argc, const char** argv) {
         return 1;
     }
     fread(buff, 1, sizeof(buff), file);
+    printf("File: %s is %s file!\n", argv[1], buff);
 
     int i = 0;
     if (buff[0] == ELFMAG0 && buff[1] == ELFMAG1 && buff[2] == ELFMAG2 && buff[3] == ELFMAG3) {
-        printf("File: %s is and ELF file!\n", argv[1]);
         elfFileInfo(file);
     }
 
