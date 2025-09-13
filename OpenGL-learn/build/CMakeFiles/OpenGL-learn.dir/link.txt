@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/OpenGL-learn.dir/link.d "CMakeFiles/OpenGL-learn.dir/main.cpp.o" -o OpenGL-learn

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20250912-1100-Experimental"
+	Name="LinuxPC"
+	Generator="ctest-4.1.1"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="15.2.1"
+	OSName="Linux"
+	Hostname="LinuxPC"
+	OSRelease="6.16.6-3-cachyos"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Wed, 10 Sep 2025 21:41:52 +0000"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="165"
+	ModelName="Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="19764"
+	TotalPhysicalMemory="19765"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4199.99"
+	>
+	<Testing>
+		<StartDateTime>Sep 13 14:39 CEST</StartDateTime>
+		<StartTestTime>1757767150</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 13 14:39 CEST</EndDateTime>
+		<EndTestTime>1757767150</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

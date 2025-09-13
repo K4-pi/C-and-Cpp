@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/kapi/Code/OpenGL-learn/out/build/CMake-OpenGL-Preset.json/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

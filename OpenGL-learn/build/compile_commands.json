@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kapi/Code/OpenGL-learn/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/OpenGL-learn.dir/main.cpp.o -c /home/kapi/Code/OpenGL-learn/main.cpp",
+  "file": "/home/kapi/Code/OpenGL-learn/main.cpp",
+  "output": "CMakeFiles/OpenGL-learn.dir/main.cpp.o"
+}
+]
